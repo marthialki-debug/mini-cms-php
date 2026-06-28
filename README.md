@@ -1,3 +1,3 @@
-# Mini-CMS-PHP
+# Mini-CMS PHP
 
-Petit gestionnaire d'articles en PHP avec stockage en mémoire.
+Petit gestionnaire d'articles en PHP avec stockage en memoire.
